@@ -137,3 +137,4 @@ github 下载地址: [freeswitch-sound-cn](https://github.com/typefo/freeswitch-
 git clone https://github.com/typefo/freeswitch-sound-cn.git
 cp -R freeswitch-sound-cn /usr/local/freeswitch/sounds
 ```
+
