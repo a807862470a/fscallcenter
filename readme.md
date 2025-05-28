@@ -3,7 +3,7 @@ lemon 是基于 FreeSWITCH 的开源呼叫中心系统，是 tenjin 3.0 的升�
 ![screenshot](script/screenshot.png)
 
 ### 主要功能和特性
-* 座席队列监控
+* 座席队列监控 
 * 3种外呼模式
 * 简单的订单系统
 * 分机注册及状态监控
